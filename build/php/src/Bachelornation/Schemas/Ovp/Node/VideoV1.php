@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/ovp/node/video/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/ovp/node/video/1-0-0.json#
 namespace Extra\Schemas\Ovp\Node;
 
 use Gdbots\Pbj\AbstractMessage;

@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/iam/node/android-app/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/node/android-app/1-0-0.json#
 namespace Extra\Schemas\Iam\Node;
 
 use Gdbots\Pbj\AbstractMessage;

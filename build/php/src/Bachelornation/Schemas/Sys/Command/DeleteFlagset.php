@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/sys/command/delete-flagset/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/sys/command/delete-flagset/latest.json#
 namespace Extra\Schemas\Sys\Command;
 
 use Gdbots\Pbj\Message;

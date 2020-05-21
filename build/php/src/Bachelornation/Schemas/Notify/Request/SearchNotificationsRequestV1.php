@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/notify/request/search-notifications-request/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/notify/request/search-notifications-request/1-0-0.json#
 namespace Extra\Schemas\Notify\Request;
 
 use Gdbots\Pbj\AbstractMessage;

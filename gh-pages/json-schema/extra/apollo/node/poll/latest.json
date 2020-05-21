@@ -1,5 +1,5 @@
 {
-  "id": "https://schemas.extra.com/json-schema/extra/apollo/node/poll/1-0-0.json#",
+  "id": "https://schemas.extratv.com/json-schema/extra/apollo/node/poll/1-0-0.json#",
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "properties": {
@@ -344,7 +344,7 @@
       "type": "object",
       "anyOf": [
         {
-          "$ref": "https://schemas.extra.com/json-schema/triniti/apollo/mixin/poll-answer/1-0-0.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/triniti/apollo/mixin/poll-answer/1-0-0.json#"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "id": "https://schemas.extra.com/json-schema/extra/notify/node/apple-news-notification/1-0-0.json#",
+  "id": "https://schemas.extratv.com/json-schema/extra/notify/node/apple-news-notification/1-0-0.json#",
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "properties": {
@@ -286,7 +286,7 @@
       "type": "object",
       "anyOf": [
         {
-          "$ref": "https://schemas.extra.com/json-schema/triniti/notify/notifier-result/1-0-0.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/triniti/notify/notifier-result/1-0-0.json#"
         }
       ]
     }

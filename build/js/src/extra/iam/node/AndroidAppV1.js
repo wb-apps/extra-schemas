@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/iam/node/android-app/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/node/android-app/1-0-0.json#
 import GdbotsIamAndroidAppV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/android-app/AndroidAppV1Mixin';
 import GdbotsIamAndroidAppV1Trait from '@gdbots/schemas/gdbots/iam/mixin/android-app/AndroidAppV1Trait';
 import GdbotsIamAppV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/app/AppV1Mixin';

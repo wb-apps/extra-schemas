@@ -1,5 +1,5 @@
 {
-  "id": "https://schemas.extra.com/json-schema/gdbots/iam/mixin/apple-news-app/1-0-0.json#",
+  "id": "https://schemas.extratv.com/json-schema/gdbots/iam/mixin/apple-news-app/1-0-0.json#",
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "properties": {

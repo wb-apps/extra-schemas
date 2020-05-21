@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/taxonomy/request/get-all-channels-request/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/taxonomy/request/get-all-channels-request/1-0-0.json#
 import GdbotsPbjxRequestV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/request/RequestV1Mixin';
 import GdbotsPbjxRequestV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/request/RequestV1Trait';
 import Message from '@gdbots/pbj/Message';

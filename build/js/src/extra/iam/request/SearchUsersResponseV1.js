@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/iam/request/search-users-response/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/request/search-users-response/1-0-0.json#
 import GdbotsIamSearchUsersResponseV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/search-users-response/SearchUsersResponseV1Mixin';
 import GdbotsNcrSearchNodesResponseV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/search-nodes-response/SearchNodesResponseV1Mixin';
 import GdbotsPbjxResponseV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/response/ResponseV1Mixin';

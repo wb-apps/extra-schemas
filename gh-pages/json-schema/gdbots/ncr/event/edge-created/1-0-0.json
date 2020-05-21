@@ -1,5 +1,5 @@
 {
-  "id": "https://schemas.extra.com/json-schema/gdbots/ncr/event/edge-created/1-0-0.json#",
+  "id": "https://schemas.extratv.com/json-schema/gdbots/ncr/event/edge-created/1-0-0.json#",
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "properties": {
@@ -199,7 +199,7 @@
       "type": "object",
       "anyOf": [
         {
-          "$ref": "https://schemas.extra.com/json-schema/gdbots/contexts/app/1-0-0.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/gdbots/contexts/app/1-0-0.json#"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "type": "object",
       "anyOf": [
         {
-          "$ref": "https://schemas.extra.com/json-schema/gdbots/contexts/cloud/1-0-0.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/gdbots/contexts/cloud/1-0-0.json#"
         }
       ]
     },
@@ -215,7 +215,7 @@
       "type": "object",
       "anyOf": [
         {
-          "$ref": "https://schemas.extra.com/json-schema/gdbots/ncr/mixin/edge/1-0-0.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/gdbots/ncr/mixin/edge/1-0-0.json#"
         }
       ]
     }

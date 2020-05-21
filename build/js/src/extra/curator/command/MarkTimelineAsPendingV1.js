@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/curator/command/mark-timeline-as-pending/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/curator/command/mark-timeline-as-pending/1-0-0.json#
 import GdbotsNcrMarkNodeAsPendingV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/mark-node-as-pending/MarkNodeAsPendingV1Mixin';
 import GdbotsPbjxCommandV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/command/CommandV1Mixin';
 import GdbotsPbjxCommandV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/command/CommandV1Trait';

@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/notify/node/email-notification/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/notify/node/email-notification/1-0-0.json#
 import GdbotsNcrIndexedV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/indexed/IndexedV1Mixin';
 import GdbotsNcrNodeV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/node/NodeV1Mixin';
 import GdbotsNcrNodeV1Trait from '@gdbots/schemas/gdbots/ncr/mixin/node/NodeV1Trait';

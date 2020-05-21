@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/canvas/block/pinterest-pin-block/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/canvas/block/pinterest-pin-block/1-0-0.json#
 namespace Extra\Schemas\Canvas\Block;
 
 use Gdbots\Pbj\AbstractMessage;

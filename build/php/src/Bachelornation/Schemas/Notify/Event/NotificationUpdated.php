@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/notify/event/notification-updated/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/notify/event/notification-updated/latest.json#
 namespace Extra\Schemas\Notify\Event;
 
 use Gdbots\Pbj\Message;

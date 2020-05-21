@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/canvas/block/poll-block/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/canvas/block/poll-block/1-0-0.json#
 import Message from '@gdbots/pbj/Message';
 import MessageResolver from '@gdbots/pbj/MessageResolver';
 import Schema from '@gdbots/pbj/Schema';

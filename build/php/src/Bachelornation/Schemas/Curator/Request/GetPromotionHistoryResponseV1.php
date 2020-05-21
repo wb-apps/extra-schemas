@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/curator/request/get-promotion-history-response/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/curator/request/get-promotion-history-response/1-0-0.json#
 namespace Extra\Schemas\Curator\Request;
 
 use Gdbots\Pbj\AbstractMessage;

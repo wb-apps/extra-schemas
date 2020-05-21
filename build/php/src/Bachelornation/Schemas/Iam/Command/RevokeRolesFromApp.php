@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/iam/command/revoke-roles-from-app/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/command/revoke-roles-from-app/latest.json#
 namespace Extra\Schemas\Iam\Command;
 
 use Gdbots\Pbj\Message;

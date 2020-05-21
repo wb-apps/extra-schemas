@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/dam/event/asset-created/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/dam/event/asset-created/latest.json#
 namespace Extra\Schemas\Dam\Event;
 
 use Gdbots\Pbj\Message;

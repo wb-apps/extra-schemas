@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/people/command/update-person/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/people/command/update-person/1-0-0.json#
 import GdbotsNcrUpdateNodeV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/update-node/UpdateNodeV1Mixin';
 import GdbotsPbjxCommandV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/command/CommandV1Mixin';
 import GdbotsPbjxCommandV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/command/CommandV1Trait';

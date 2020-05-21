@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/sys/node/redirect/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/sys/node/redirect/latest.json#
 namespace Extra\Schemas\Sys\Node;
 
 use Gdbots\Pbj\Message;

@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/iam/request/search-users-response/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/request/search-users-response/1-0-0.json#
 namespace Extra\Schemas\Iam\Request;
 
 use Gdbots\Pbj\AbstractMessage;

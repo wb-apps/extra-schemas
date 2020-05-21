@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/curator/event/teaser-marked-as-pending/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/curator/event/teaser-marked-as-pending/1-0-0.json#
 namespace Extra\Schemas\Curator\Event;
 
 use Gdbots\Pbj\AbstractMessage;

@@ -1,5 +1,5 @@
 {
-  "id": "https://schemas.extra.com/json-schema/extra/ovp/request/get-video-history-response/1-0-0.json#",
+  "id": "https://schemas.extratv.com/json-schema/extra/ovp/request/get-video-history-response/1-0-0.json#",
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "properties": {
@@ -187,13 +187,13 @@
       "type": "object",
       "anyOf": [
         {
-          "$ref": "https://schemas.extra.com/json-schema/gdbots/pbjx/mixin/request/1-0-0.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/gdbots/pbjx/mixin/request/1-0-0.json#"
         },
         {
-          "$ref": "https://schemas.extra.com/json-schema/gdbots/pbjx/mixin/request/1-0-1.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/gdbots/pbjx/mixin/request/1-0-1.json#"
         },
         {
-          "$ref": "https://schemas.extra.com/json-schema/gdbots/pbjx/mixin/request/1-0-2.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/gdbots/pbjx/mixin/request/1-0-2.json#"
         }
       ]
     },
@@ -201,10 +201,10 @@
       "type": "object",
       "anyOf": [
         {
-          "$ref": "https://schemas.extra.com/json-schema/gdbots/pbjx/mixin/event/1-0-0.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/gdbots/pbjx/mixin/event/1-0-0.json#"
         },
         {
-          "$ref": "https://schemas.extra.com/json-schema/gdbots/pbjx/mixin/event/1-0-1.json#"
+          "$ref": "https://schemas.extratv.com/json-schema/gdbots/pbjx/mixin/event/1-0-1.json#"
         }
       ]
     }

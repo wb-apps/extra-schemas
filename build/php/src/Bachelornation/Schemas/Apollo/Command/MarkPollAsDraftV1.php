@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/apollo/command/mark-poll-as-draft/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/apollo/command/mark-poll-as-draft/1-0-0.json#
 namespace Extra\Schemas\Apollo\Command;
 
 use Gdbots\Pbj\AbstractMessage;

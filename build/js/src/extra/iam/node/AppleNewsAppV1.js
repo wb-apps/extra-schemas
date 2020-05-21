@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/iam/node/apple-news-app/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/node/apple-news-app/1-0-0.json#
 import GdbotsIamAppV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/app/AppV1Mixin';
 import GdbotsIamAppleNewsAppV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/apple-news-app/AppleNewsAppV1Mixin';
 import GdbotsIamAppleNewsAppV1Trait from '@gdbots/schemas/gdbots/iam/mixin/apple-news-app/AppleNewsAppV1Trait';

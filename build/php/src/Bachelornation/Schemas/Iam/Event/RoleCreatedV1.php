@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/iam/event/role-created/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/event/role-created/1-0-0.json#
 namespace Extra\Schemas\Iam\Event;
 
 use Gdbots\Pbj\AbstractMessage;

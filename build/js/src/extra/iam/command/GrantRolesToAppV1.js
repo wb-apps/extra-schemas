@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/iam/command/grant-roles-to-app/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/command/grant-roles-to-app/1-0-0.json#
 import GdbotsIamGrantRolesToAppV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/grant-roles-to-app/GrantRolesToAppV1Mixin';
 import GdbotsPbjxCommandV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/command/CommandV1Mixin';
 import GdbotsPbjxCommandV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/command/CommandV1Trait';

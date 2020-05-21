@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/taxonomy/node/channel/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/taxonomy/node/channel/latest.json#
 namespace Extra\Schemas\Taxonomy\Node;
 
 use Gdbots\Pbj\Message;

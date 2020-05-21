@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/iam/node/sms-app/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/node/sms-app/1-0-0.json#
 import GdbotsIamAppV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/app/AppV1Mixin';
 import GdbotsIamSmsAppV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/sms-app/SmsAppV1Mixin';
 import GdbotsIamSmsAppV1Trait from '@gdbots/schemas/gdbots/iam/mixin/sms-app/SmsAppV1Trait';

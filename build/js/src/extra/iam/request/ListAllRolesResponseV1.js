@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/iam/request/list-all-roles-response/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/request/list-all-roles-response/1-0-0.json#
 import GdbotsIamListAllRolesResponseV1Mixin from '@gdbots/schemas/gdbots/iam/mixin/list-all-roles-response/ListAllRolesResponseV1Mixin';
 import GdbotsPbjxResponseV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/response/ResponseV1Mixin';
 import GdbotsPbjxResponseV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/response/ResponseV1Trait';

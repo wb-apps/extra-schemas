@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/sys/request/get-flagset-request/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/sys/request/get-flagset-request/1-0-0.json#
 namespace Extra\Schemas\Sys\Request;
 
 use Gdbots\Pbj\AbstractMessage;

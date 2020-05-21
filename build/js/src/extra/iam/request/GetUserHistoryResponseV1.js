@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/iam/request/get-user-history-response/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/request/get-user-history-response/1-0-0.json#
 import GdbotsPbjxGetEventsResponseV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/get-events-response/GetEventsResponseV1Mixin';
 import GdbotsPbjxResponseV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/response/ResponseV1Mixin';
 import GdbotsPbjxResponseV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/response/ResponseV1Trait';

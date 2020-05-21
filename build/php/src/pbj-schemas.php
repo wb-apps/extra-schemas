@@ -5,7 +5,7 @@
  *
  * Registers all of the pbj schemas with the MessageResolver.
  *
- * @link https://schemas.extra.com/
+ * @link https://schemas.extratv.com/
  */
 
 \Gdbots\Pbj\MessageResolver::registerManifest([

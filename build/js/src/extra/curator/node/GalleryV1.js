@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/curator/node/gallery/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/curator/node/gallery/1-0-0.json#
 import GdbotsCommonTaggableV1Mixin from '@gdbots/schemas/gdbots/common/mixin/taggable/TaggableV1Mixin';
 import GdbotsNcrExpirableV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/expirable/ExpirableV1Mixin';
 import GdbotsNcrIndexedV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/indexed/IndexedV1Mixin';

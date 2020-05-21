@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/taxonomy/event/category-deleted/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/taxonomy/event/category-deleted/1-0-0.json#
 namespace Extra\Schemas\Taxonomy\Event;
 
 use Gdbots\Pbj\AbstractMessage;

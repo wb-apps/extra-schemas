@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/curator/command/expire-gallery/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/curator/command/expire-gallery/1-0-0.json#
 import GdbotsNcrExpireNodeV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/expire-node/ExpireNodeV1Mixin';
 import GdbotsPbjxCommandV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/command/CommandV1Mixin';
 import GdbotsPbjxCommandV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/command/CommandV1Trait';

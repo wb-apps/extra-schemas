@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/boost/command/expire-sponsor/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/boost/command/expire-sponsor/1-0-0.json#
 namespace Extra\Schemas\Boost\Command;
 
 use Gdbots\Pbj\AbstractMessage;

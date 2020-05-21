@@ -4,7 +4,7 @@
  *
  * Registers all of the pbj schemas with the MessageResolver.
  *
- * @link https://schemas.extra.com/
+ * @link https://schemas.extratv.com/
  */
 
 import MessageResolver from '@gdbots/pbj/MessageResolver';

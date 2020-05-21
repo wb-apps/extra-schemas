@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/apollo/event/poll-deleted/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/apollo/event/poll-deleted/latest.json#
 namespace Extra\Schemas\Apollo\Event;
 
 use Gdbots\Pbj\Message;

@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/curator/event/timeline-renamed/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/curator/event/timeline-renamed/1-0-0.json#
 import GdbotsNcrNodeRenamedV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/node-renamed/NodeRenamedV1Mixin';
 import GdbotsPbjxEventV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/event/EventV1Mixin';
 import GdbotsPbjxEventV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/event/EventV1Trait';

@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/sys/event/flagset-created/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/sys/event/flagset-created/latest.json#
 namespace Extra\Schemas\Sys\Event;
 
 use Gdbots\Pbj\Message;

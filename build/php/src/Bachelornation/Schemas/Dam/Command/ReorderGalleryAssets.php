@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/dam/command/reorder-gallery-assets/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/dam/command/reorder-gallery-assets/latest.json#
 namespace Extra\Schemas\Dam\Command;
 
 use Gdbots\Pbj\Message;

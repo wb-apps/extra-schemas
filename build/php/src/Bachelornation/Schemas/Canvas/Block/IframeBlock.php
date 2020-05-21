@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/canvas/block/iframe-block/latest.json#
+// @link https://schemas.extratv.com/json-schema/extra/canvas/block/iframe-block/latest.json#
 namespace Extra\Schemas\Canvas\Block;
 
 use Gdbots\Pbj\Message;

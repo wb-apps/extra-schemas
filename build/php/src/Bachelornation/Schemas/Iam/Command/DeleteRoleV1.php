@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extra.com/json-schema/extra/iam/command/delete-role/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/iam/command/delete-role/1-0-0.json#
 namespace Extra\Schemas\Iam\Command;
 
 use Gdbots\Pbj\AbstractMessage;

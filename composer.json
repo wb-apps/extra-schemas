@@ -1,6 +1,6 @@
 {
   "name": "extra/schemas",
-  "homepage": "https://schemas.extra.com/",
+  "homepage": "https://schemas.extratv.com/",
   "description": "Schemas for all Extra apps and components.",
   "type": "pbj-schema-store",
   "license": "Apache-2.0",

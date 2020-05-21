@@ -1,4 +1,4 @@
-// @link https://schemas.extra.com/json-schema/extra/boost/event/sponsor-marked-as-pending/1-0-0.json#
+// @link https://schemas.extratv.com/json-schema/extra/boost/event/sponsor-marked-as-pending/1-0-0.json#
 import GdbotsNcrNodeMarkedAsPendingV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/node-marked-as-pending/NodeMarkedAsPendingV1Mixin';
 import GdbotsPbjxEventV1Mixin from '@gdbots/schemas/gdbots/pbjx/mixin/event/EventV1Mixin';
 import GdbotsPbjxEventV1Trait from '@gdbots/schemas/gdbots/pbjx/mixin/event/EventV1Trait';
