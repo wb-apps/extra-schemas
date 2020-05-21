@@ -1,0 +1,52 @@
+{
+  "name": "extra/schemas",
+  "homepage": "https://schemas.extra.com/",
+  "description": "Schemas for all Extra apps and components.",
+  "type": "pbj-schema-store",
+  "license": "Apache-2.0",
+  "require": {
+    "php": ">=7.1",
+    "gdbots/schemas": "1.6.5",
+    "triniti/schemas": "1.1.9"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.4",
+    "gdbots/pbjc": "~0.4"
+  },
+  "autoload": {
+    "files": [
+      "build/php/src/pbj-schemas.php"
+    ],
+    "psr-0": {
+      "": "build/php/src"
+    }
+  },
+  "autoload-dev": {
+    "files": [
+      "pbj-schema-stores.php"
+    ],
+    "psr-0": {
+      "": "build/php/tests"
+    }
+  },
+  "scripts": {
+    "pbjc": [
+      "vendor/bin/pbjc",
+      "git add .",
+      "@test"
+    ],
+    "post-package-install": [
+      "Gdbots\\Pbjc\\Composer\\ScriptHandler::writePbjSchemaStoresFile"
+    ],
+    "post-package-uninstall": [
+      "Gdbots\\Pbjc\\Composer\\ScriptHandler::writePbjSchemaStoresFile"
+    ],
+    "post-package-update": [
+      "Gdbots\\Pbjc\\Composer\\ScriptHandler::writePbjSchemaStoresFile"
+    ],
+    "test": [
+      "vendor/bin/phpunit",
+      "npm test"
+    ]
+  }
+}
