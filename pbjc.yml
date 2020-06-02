@@ -1,0 +1,26 @@
+domain: https://schemas.extratv.com
+
+namespaces:
+  - extra:apollo
+  - extra:boost
+  - extra:canvas
+  - extra:curator
+  - extra:dam
+  - extra:iam
+  - extra:news
+  - extra:notify
+  - extra:ovp
+  - extra:people
+  - extra:sys
+  - extra:taxonomy
+
+languages:
+  php:
+    output: ./build/php/src
+
+  js:
+    output: ./build/js/src
+
+  json-schema:
+    include_all: true
+    output: ./gh-pages/json-schema

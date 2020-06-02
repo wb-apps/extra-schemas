@@ -1,0 +1,9 @@
+<?php
+// @link https://schemas.extratv.com/json-schema/extra/news/command/rename-article/latest.json#
+namespace Extra\Schemas\News\Command;
+
+use Gdbots\Pbj\Message;
+
+interface RenameArticle extends Message
+{
+}
