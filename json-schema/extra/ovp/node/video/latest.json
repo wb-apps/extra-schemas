@@ -445,6 +445,80 @@
         "rule": "single"
       }
     },
+    "kaltura_entry_id": {
+      "type": "string",
+      "pattern": "^[\\w-]+$",
+      "pbj": {
+        "type": "string",
+        "rule": "single"
+      }
+    },
+    "kaltura_partner_id": {
+      "type": "string",
+      "pattern": "^[\\w-]+$",
+      "pbj": {
+        "type": "string",
+        "rule": "single"
+      }
+    },
+    "kaltura_sync_enabled": {
+      "type": "boolean",
+      "default": true,
+      "pbj": {
+        "type": "boolean",
+        "rule": "single"
+      }
+    },
+    "kaltura_synced_at": {
+      "type": "integer",
+      "minimum": -2147483648,
+      "maximum": 2147483647,
+      "description": "Timestamp when the entry was last synced with Kaltura.",
+      "pbj": {
+        "type": "timestamp",
+        "rule": "single",
+        "useTypeDefault": false
+      }
+    },
+    "kaltura_mp4_url": {
+      "type": "string",
+      "pattern": "^(https?:\\/\\/)?([\\da-z\\.-]+)\\.([a-z\\.]{2,6})([\\/\\w \\.-]*)*\\/?$",
+      "description": "URL to the source mp4 (generally a high-res/mezzanine file).",
+      "pbj": {
+        "type": "text",
+        "rule": "single",
+        "format": "url"
+      }
+    },
+    "kaltura_metadata": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-zA-Z_]{1}[\\w\\.:-]+$": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 65535
+        }
+      },
+      "additionalProperties": false,
+      "description": "A map containing the metadata profile values for the entry.",
+      "pbj": {
+        "type": "text",
+        "rule": "map"
+      }
+    },
+    "kaltura_flavors": {
+      "type": "array",
+      "items": [
+        {
+          "$ref": "#/definitions/flavor"
+        }
+      ],
+      "additionalProperties": false,
+      "pbj": {
+        "type": "message",
+        "rule": "list"
+      }
+    },
     "tags": {
       "type": "object",
       "patternProperties": {
@@ -713,5 +787,15 @@
     "_schema",
     "_id"
   ],
+  "definitions": {
+    "flavor": {
+      "type": "object",
+      "anyOf": [
+        {
+          "$ref": "https://schemas.extratv.com/json-schema/triniti/ovp.kaltura/flavor/1-0-0.json#"
+        }
+      ]
+    }
+  },
   "additionalProperties": false
 }
