@@ -20,6 +20,8 @@ languages:
 
   js:
     output: ./build/js/src
+    packages:
+      extra: '@extratv/schemas'
 
   json-schema:
     include_all: true
