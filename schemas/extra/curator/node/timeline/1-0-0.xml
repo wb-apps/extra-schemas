@@ -14,6 +14,7 @@
       <curie-major>gdbots:ncr:mixin:sluggable:v1</curie-major>
       <curie-major>triniti:boost:mixin:sponsorable:v1</curie-major>
       <curie-major>triniti:common:mixin:advertising:v1</curie-major>
+      <curie-major>triniti:common:mixin:custom-code:v1</curie-major>
       <curie-major>triniti:common:mixin:seo:v1</curie-major>
       <curie-major>triniti:common:mixin:themeable:v1</curie-major>
       <curie-major>triniti:curator:mixin:teaserable:v1</curie-major>

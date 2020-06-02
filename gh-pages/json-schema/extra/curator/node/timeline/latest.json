@@ -1,12 +1,12 @@
 {
-  "id": "https://schemas.extratv.com/json-schema/extra/curator/node/timeline/1-0-1.json#",
+  "id": "https://schemas.extratv.com/json-schema/extra/curator/node/timeline/1-0-0.json#",
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "properties": {
     "_schema": {
       "type": "string",
       "pattern": "^pbj:([a-z0-9-]+):([a-z0-9\\.-]+):([a-z0-9-]+)?:([a-z0-9-]+):([0-9]+-[0-9]+-[0-9]+)$",
-      "default": "pbj:extra:curator:node:timeline:1-0-1"
+      "default": "pbj:extra:curator:node:timeline:1-0-0"
     },
     "_id": {
       "type": "string",

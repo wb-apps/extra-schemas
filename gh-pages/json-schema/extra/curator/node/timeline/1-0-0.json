@@ -300,6 +300,22 @@
         "rule": "map"
       }
     },
+    "custom_code": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-zA-Z_]{1}[\\w\\.:-]+$": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 65535
+        }
+      },
+      "additionalProperties": false,
+      "description": "A map containing (HTML, JavaScript, CSS, etc.) that is injected into an application at a named insertion point, e.g. \"html_head\" or \"footer\".",
+      "pbj": {
+        "type": "text",
+        "rule": "map"
+      }
+    },
     "seo_title": {
       "type": "string",
       "minLength": 0,
