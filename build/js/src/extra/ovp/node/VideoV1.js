@@ -1,4 +1,4 @@
-// @link https://schemas.extratv.com/json-schema/extra/ovp/node/video/1-0-1.json#
+// @link https://schemas.extratv.com/json-schema/extra/ovp/node/video/1-0-0.json#
 import GdbotsCommonLabelableV1Mixin from '@gdbots/schemas/gdbots/common/mixin/labelable/LabelableV1Mixin';
 import GdbotsCommonTaggableV1Mixin from '@gdbots/schemas/gdbots/common/mixin/taggable/TaggableV1Mixin';
 import GdbotsNcrExpirableV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/expirable/ExpirableV1Mixin';
@@ -31,7 +31,7 @@ export default class VideoV1 extends Message {
    * @returns {Schema}
    */
   static defineSchema() {
-    return new Schema('pbj:extra:ovp:node:video:1-0-1', VideoV1,
+    return new Schema('pbj:extra:ovp:node:video:1-0-0', VideoV1,
       [],
       [
         GdbotsNcrNodeV1Mixin.create(),

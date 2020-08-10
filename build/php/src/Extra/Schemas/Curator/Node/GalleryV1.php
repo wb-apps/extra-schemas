@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extratv.com/json-schema/extra/curator/node/gallery/1-0-1.json#
+// @link https://schemas.extratv.com/json-schema/extra/curator/node/gallery/1-0-0.json#
 namespace Extra\Schemas\Curator\Node;
 
 use Gdbots\Pbj\AbstractMessage;
@@ -72,7 +72,7 @@ final class GalleryV1 extends AbstractMessage implements
      */
     protected static function defineSchema()
     {
-        return new Schema('pbj:extra:curator:node:gallery:1-0-1', __CLASS__,
+        return new Schema('pbj:extra:curator:node:gallery:1-0-0', __CLASS__,
             [],
             [
                 GdbotsNcrNodeV1Mixin::create(),

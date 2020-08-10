@@ -1,5 +1,5 @@
 <?php
-// @link https://schemas.extratv.com/json-schema/extra/news/node/article/1-0-1.json#
+// @link https://schemas.extratv.com/json-schema/extra/news/node/article/1-0-0.json#
 namespace Extra\Schemas\News\Node;
 
 use Gdbots\Pbj\AbstractMessage;
@@ -84,7 +84,7 @@ final class ArticleV1 extends AbstractMessage implements
      */
     protected static function defineSchema()
     {
-        return new Schema('pbj:extra:news:node:article:1-0-1', __CLASS__,
+        return new Schema('pbj:extra:news:node:article:1-0-0', __CLASS__,
             [],
             [
                 GdbotsNcrNodeV1Mixin::create(),

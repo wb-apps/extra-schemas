@@ -4,11 +4,11 @@
 ## v0.1.1
 * Use `gdbots/schemas` v1.6.6.
 * __Modify Schemas:__
-  * `extra:curator:node:gallery` patch revision `1-0-1`
+  * `extra:curator:node:gallery`
     * Add mixin `gdbots:common:mixin:labelable:v1`
-  * `extra:news:node:article` patch revision `1-0-1`
+  * `extra:news:node:article`
     * Add mixin `gdbots:common:mixin:labelable:v1`
-  * `extra:ovp:node:video` patch revision `1-0-3`
+  * `extra:ovp:node:video`
     * Add mixin `gdbots:common:mixin:labelable:v1`
 
 
