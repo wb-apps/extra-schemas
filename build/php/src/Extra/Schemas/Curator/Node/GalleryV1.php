@@ -4,6 +4,8 @@ namespace Extra\Schemas\Curator\Node;
 
 use Gdbots\Pbj\AbstractMessage;
 use Gdbots\Pbj\Schema;
+use Gdbots\Schemas\Common\Mixin\Labelable\LabelableV1 as GdbotsCommonLabelableV1;
+use Gdbots\Schemas\Common\Mixin\Labelable\LabelableV1Mixin as GdbotsCommonLabelableV1Mixin;
 use Gdbots\Schemas\Common\Mixin\Taggable\TaggableV1 as GdbotsCommonTaggableV1;
 use Gdbots\Schemas\Common\Mixin\Taggable\TaggableV1Mixin as GdbotsCommonTaggableV1Mixin;
 use Gdbots\Schemas\Ncr\Mixin\Expirable\ExpirableV1 as GdbotsNcrExpirableV1;
@@ -45,6 +47,7 @@ final class GalleryV1 extends AbstractMessage implements
     Gallery,
     GdbotsNcrNodeV1,
     TrinitiCuratorGalleryV1,
+    GdbotsCommonLabelableV1,
     GdbotsCommonTaggableV1,
     GdbotsNcrExpirableV1,
     GdbotsNcrIndexedV1,
@@ -74,6 +77,7 @@ final class GalleryV1 extends AbstractMessage implements
             [
                 GdbotsNcrNodeV1Mixin::create(),
                 TrinitiCuratorGalleryV1Mixin::create(),
+                GdbotsCommonLabelableV1Mixin::create(),
                 GdbotsCommonTaggableV1Mixin::create(),
                 GdbotsNcrExpirableV1Mixin::create(),
                 GdbotsNcrIndexedV1Mixin::create(),

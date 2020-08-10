@@ -1,4 +1,5 @@
 // @link https://schemas.extratv.com/json-schema/extra/curator/node/gallery/1-0-0.json#
+import GdbotsCommonLabelableV1Mixin from '@gdbots/schemas/gdbots/common/mixin/labelable/LabelableV1Mixin';
 import GdbotsCommonTaggableV1Mixin from '@gdbots/schemas/gdbots/common/mixin/taggable/TaggableV1Mixin';
 import GdbotsNcrExpirableV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/expirable/ExpirableV1Mixin';
 import GdbotsNcrIndexedV1Mixin from '@gdbots/schemas/gdbots/ncr/mixin/indexed/IndexedV1Mixin';
@@ -34,6 +35,7 @@ export default class GalleryV1 extends Message {
       [
         GdbotsNcrNodeV1Mixin.create(),
         TrinitiCuratorGalleryV1Mixin.create(),
+        GdbotsCommonLabelableV1Mixin.create(),
         GdbotsCommonTaggableV1Mixin.create(),
         GdbotsNcrExpirableV1Mixin.create(),
         GdbotsNcrIndexedV1Mixin.create(),
