@@ -1,6 +1,6 @@
 {
   "name": "@extratv/schemas",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Schemas for all Extra apps and components.",
   "repository": {
     "type": "git",
