@@ -67,6 +67,7 @@ import '@extratv/schemas/extra/canvas/block/AudioBlockV1';
 import '@extratv/schemas/extra/canvas/block/CodeBlockV1';
 import '@extratv/schemas/extra/canvas/block/DividerBlockV1';
 import '@extratv/schemas/extra/canvas/block/DocumentBlockV1';
+import '@extratv/schemas/extra/canvas/block/EmeFormBlockV1';
 import '@extratv/schemas/extra/canvas/block/FacebookPostBlockV1';
 import '@extratv/schemas/extra/canvas/block/FacebookVideoBlockV1';
 import '@extratv/schemas/extra/canvas/block/GalleryBlockV1';
