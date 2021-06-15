@@ -1,6 +1,15 @@
 # CHANGELOG
 
 
+## v1.0.2
+* Use `gdbots/schemas` v1.6.7.
+* Use `triniti/schemas` v1.1.16.
+* __Add Schemas:__
+  * `extra:canvas:block:eme-form-block`
+  * `extra:iam:node:twitter-app`
+  * `extra:notify:node:twitter-notification`
+
+
 ## v1.0.1
 * Use `triniti/schemas` v1.1.15.
 
