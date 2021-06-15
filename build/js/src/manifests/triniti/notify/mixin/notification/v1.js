@@ -15,4 +15,5 @@ export default [
   'extra:notify:node:ios-notification:v1',
   'extra:notify:node:slack-notification:v1',
   'extra:notify:node:sms-notification:v1',
+  'extra:notify:node:twitter-notification:v1',
 ];

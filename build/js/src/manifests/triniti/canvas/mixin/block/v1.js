@@ -12,6 +12,7 @@ export default [
   'extra:canvas:block:code-block:v1',
   'extra:canvas:block:divider-block:v1',
   'extra:canvas:block:document-block:v1',
+  'extra:canvas:block:eme-form-block:v1',
   'extra:canvas:block:facebook-post-block:v1',
   'extra:canvas:block:facebook-video-block:v1',
   'extra:canvas:block:gallery-block:v1',

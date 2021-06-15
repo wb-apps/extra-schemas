@@ -7,4 +7,5 @@
  */
 
 export default [
+  'extra:canvas:block:eme-form-block:v1',
 ];

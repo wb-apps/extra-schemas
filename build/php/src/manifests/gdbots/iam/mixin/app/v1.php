@@ -18,4 +18,5 @@ return [
     'extra:iam:node:ios-app:v1',
     'extra:iam:node:slack-app:v1',
     'extra:iam:node:sms-app:v1',
+    'extra:iam:node:twitter-app:v1',
 ];

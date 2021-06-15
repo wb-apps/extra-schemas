@@ -10,4 +10,5 @@ declare(strict_types=1);
  */
 
 return [
+    'extra:canvas:block:eme-form-block:v1',
 ];
